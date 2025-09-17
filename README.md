@@ -41,7 +41,7 @@ cd Info_Tecnologia_Test
 ### 2. Subir os container com docker compose
 
 ```bash
-docker-compose up -d
+docker compose up -d
 ```
 
 ### 3. Instalar as dependencias
