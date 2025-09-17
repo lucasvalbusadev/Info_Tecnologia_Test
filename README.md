@@ -34,8 +34,8 @@ API para gerenciar veículos, construída com **NestJS**, **PostgreSQL**, **Rabb
 ### 1. Clonar o repositório
 
 ```bash
-git clone <URL_DO_REPOSITORIO>
-cd nome-do-projeto
+git clone https://github.com/lucasvalbusadev/Info_Tecnologia_Test.git
+cd Info_Tecnologia_Test
 ```
 
 ### 2. Subir os container com docker compose
